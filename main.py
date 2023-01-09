@@ -5,5 +5,3 @@ app  = FastAPI()
 def index():
     return "This is the front page"
 
-# if __name__ == "__main__":
-#     uvicorn.run(app)
